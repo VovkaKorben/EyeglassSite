@@ -1,0 +1,64 @@
+
+
+.header div {
+/*     margin: 50px; */
+}
+
+.header1 {
+    font-size: 112px;
+    font-weight: bold;
+    line-height: 80%;
+}
+
+.header2 {
+    font-size: 50px;
+    line-height: 80%;
+}
+
+
+.foo {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+
+.foo1 {
+    padding-bottom: 10px;
+}
+
+.foo1a {
+   
+   font-size: 10.2vmin;
+}
+
+.foo1b {
+   
+    height: 32px;
+      font-size: 4.2vmin;
+}
+
+.foo1b img {
+    padding: 0px 5px 0px 20px;
+}
+
+.foo2 {
+   
+    height: 32px; font-size: 4.2vmin;
+}
+
+ td.large
+{
+     display: none;
+}
+.small img 
+{width:100px;
+margin:10px;}
+.qr {
+    display: none;
+}
+td
+{font-size: 4.2vmin;
+    text-align:center;
+ font-weight:bold;
+}
